@@ -6,7 +6,7 @@ void setup() {
 }
 
 void draw() {
-  // Plug these values into the respective equations on lines 42 and 43 to get different julia sets
+  // Plug these values into the respective equations on lines 51 and 52 to get different julia sets
   //float constantA = map(mouseX, 0, width, -1, 1);
   //float constantB = map(mouseY, 0, height, -1, 1);
   float constantA = cos(angle * PI);
